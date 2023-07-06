@@ -14,14 +14,14 @@ OCR and Paddle OCR. This makes sure we are only extracting the useful informatio
 ## Step 3:
 Display the results.
 
-# Jupyter Noteboos:
+# Jupyter Notebooks
 The repository also includes the code used for creating the pre-trained YOLO object detection model inside 
 of the ipynb notebooks.
 
-# Demo:
+# Demo
 https://github.com/varunpusarla/Intelligent-Document-Processing/assets/51925551/27841dc9-9711-45b4-a678-bce76f9901e1
 
-# Output:
+# Output
 ![image](https://github.com/varunpusarla/Intelligent-Document-Processing/assets/51925551/23bd184a-ea67-4b27-8744-d0229ed6ca13)
 
 ![image](https://github.com/varunpusarla/Intelligent-Document-Processing/assets/51925551/2f31f6c3-ecbf-4ef9-8df8-807c88f4f863)
@@ -40,7 +40,7 @@ Make sure you have the following dependencies installed:
 You can install these using the requirements.txt file:
 `pip install -r requirements.txt`
 
-# Usage:
+# Usage
 1. Clone the repository: `git clone https://github.com/varunpusarla/invoice-processing.git`
 2. Change the directory: `cd UI`
 3. Create a virtual environment: `python -m venv env`
@@ -51,7 +51,7 @@ You can install these using the requirements.txt file:
 For Tesseract OCR you also need to install its setup which can be found in the following link:
 https://github.com/UB-Mannheim/tesseract/wiki
 
-# Acknowledgements:
+# Acknowledgements
 1. This project utilizes the YOLO object detection model from the Ultralytics repository.
    For more information, please refer to the [Ultralytics](https://github.com/ultralytics/ultralytics) GitHub page.
 2. The PaddleOCR library is used for OCR processing. For more information, please refer to the [PaddleOCR](https://github.com/ultralytics/ultralytics) GitHub page.
